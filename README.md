@@ -2,6 +2,8 @@
 
 A full ETL and exploratory analysis project on the UK Online Retail dataset (Kaggle), covering data cleaning, feature engineering, customer segmentation (RFM), and revenue analysis.
 
+The dataset was downloaded from here: https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
+
 ## Tools
 Python, pandas, matplotlib, Jupyter Notebook
 
