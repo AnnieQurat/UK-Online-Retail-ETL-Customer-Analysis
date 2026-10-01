@@ -38,3 +38,5 @@ Python, pandas, matplotlib, Jupyter Notebook
 
 ## Notes
 All cleaning decisions (drop vs. fill, include vs. exclude cancellations) were made deliberately based on what each downstream analysis required, not applied as blanket defaults.
+
+The Jupyter Notebook: https://github.com/AnnieQurat/UK-Online-Retail-ETL-Customer-Analysis/blob/main/Online_Retail_II.ipynb
